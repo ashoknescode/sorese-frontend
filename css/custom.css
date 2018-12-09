@@ -103,17 +103,8 @@ body{
 	padding-bottom: 3rem;
 	padding-left: 0rem;
 }
-
-.fa-facebook{
-	font-size: 38px;
-	color: white;
-}
-.fa-twitter-square{
-	font-size: 38px;
-	color: white;
-}
-.fa-linkedin{
-	font-size: 38px;
-	color: white;
+.mediaicon{
+	padding-left: 10px;
+	padding-right: 10px;
 }
 /*End Footer*/
