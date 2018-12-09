@@ -1,0 +1,110 @@
+
+
+body{
+	background-color: #Fcd118ff ! important;
+    background-image: ;
+    font-family: 'Radley', serif;
+    font-family: 'Taviraj', serif;
+    padding-top: 5rem;
+}
+
+.navbar{
+	background-color: #Fcd118ff ! important;
+
+}
+.bg-light{
+	background-color: orange;
+}
+
+/* Body all section padding */
+.body-padding{
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+}
+
+/* First section button */
+.btn.btn-light{
+	border-radius: 30px;
+	background-color: rgba(90, 87, 25, 255);
+	color: white;
+	text-transform: uppercase;
+
+}
+/* For white background */
+.bodycenterashok{
+	background-color: #FFFFFF ! important;
+}
+
+/* Column for icon */
+.col-md-2dot5{
+	position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 0px;
+    padding-left: 50px;
+}
+@media (min-width: 720px) {
+    .col-md-2dot5 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 10%;
+        flex: 0 0 20%;
+        max-width: 20%;
+    }                      
+/* End Column for icon */
+
+.btn.btn-outline{
+	border-radius: 20px;
+	background-color: orange;
+}
+.form-inline{
+	border-radius: 20px;
+	border: orange;
+}
+
+/*Footer*/
+.footer{
+	position: absolute;
+	bottom: ;
+	left: 0px;
+	right: 0px;
+	padding-top: 1rem;
+	background-color:#454545 ;
+	color: white  ;
+}
+
+
+.footer-heading{
+	color: #FDFEFE;
+	text-transform: uppercase;
+	font-weight: bold;
+	padding-top: 3rem;
+	padding-bottom: 2rem;
+}
+.list-unstyled-textfooter{
+	color: white;
+}
+.container{
+	padding-top: 0rem;
+	padding-bottom: 3rem;
+	padding-left: 0rem;
+}
+
+.fa-facebook{
+	font-size: 38px;
+	color: white;
+}
+.fa-twitter-square{
+	font-size: 38px;
+	color: white;
+}
+.fa-linkedin{
+	font-size: 38px;
+	color: white;
+}
+
+/*.lower-footer{
+	background-color: #ff33;
+	text-align: center;
+	color: white;
+}*/
+/*End Footer*/
